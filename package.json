@@ -1,0 +1,19 @@
+{
+	"name": "esnext",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"babel": "babel",
+		"do": "babel-node"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@babel/cli": "7.0.0-beta.40",
+		"@babel/core": "7.0.0-beta.40",
+		"@babel/preset-env": "7.0.0-beta.40",
+		"@babel/node": "7.0.0-beta.40"
+	}
+}
